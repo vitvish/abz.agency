@@ -1,8 +1,8 @@
 For run:
-$ composer install
-$ npm i
-$ composer migrate --seed (если вдруг возникнут ошибки при посеве - composer dump-autoload, при автогенерации есть 1% что корневые узлы сгенерированы не будут)
-$ php artisan serve
+<p align="center">$ composer install</p>
+<p align="center">$ npm i</p>
+<p align="center">$ composer migrate --seed (если вдруг возникнут ошибки при посеве - composer dump-autoload, при автогенерации есть 1% что корневые узлы сгенерированы не будут)</p>
+<p align="center">$ php artisan serve</p>
 
 [![Presentation video]()](https://github.com/vitvish/abz.agency/blob/master/public/files/abz.agency.mp4)
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
