@@ -4,7 +4,6 @@ For run:
 <p>$ composer migrate --seed (если вдруг возникнут ошибки при посеве - composer dump-autoload, при автогенерации есть 1% что корневые узлы сгенерированы не будут)</p>
 <p>$ php artisan serve</p>
 
-[![Presentation video]()](https://github.com/vitvish/abz.agency/blob/master/public/files/abz.agency.mp4)
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
